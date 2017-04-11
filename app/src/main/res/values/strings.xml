@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4_Activity</string>
+    <string-array name="option_choice_list">
+        <item>a Option 01</item>
+        <item>b Option 02</item>
+        <item>c Option 03</item>
+    </string-array>
+    <string-array name="option_choice_value_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
